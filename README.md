@@ -3,20 +3,20 @@ ROOM FOR LESSON
 # Program make a simple calculator
 
 # This function adds two numbers
-def add(x, y):
-    return x + y
+def add(z, y):
+    return z + y
 
 # This function subtracts two numbers
-def subtract(x, y):
-    return x - y
+def subtract(z, y):
+    return z - y
 
 # This function multiplies two numbers
-def multiply(x, y):
-    return x * y
+def multiply(z, y):
+    return z * y
 
 # This function divides two numbers
-def divide(x, y):
-    return x / y
+def divide(z, y):
+    return z / y
 
 
 print("Select operation.")
